@@ -1,0 +1,12 @@
+In kali linux run a python script:
+
+python3 fileName.py
+
+#!/bin/python3
+
+print(1 + 1)
+
+chmod + x fileName.py
+
+./fileName.py
+
